@@ -137,10 +137,3 @@ Simulation confirms:
 
 ---
 
-## Author
-
-**SIGATAPU GHYANAKAMESWARI**
-
-Electronics and Communication Engineering
-
-Interested in RTL Design, FPGA Design, and VLSI.
